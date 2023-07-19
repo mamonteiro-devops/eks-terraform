@@ -1,5 +1,5 @@
 locals {
-  remote_state_bucket_region    = "us-east-1"
+  remote_state_bucket_region    = "us-west-2"
   remote_state_bucket           = "hands-on-cloud-terraform-remote-state-s3"
   infrastructure_state_file     = "managing-eks-terraform-vpc.tfstate"
 
