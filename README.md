@@ -12,8 +12,6 @@ This is a demo repository for the [How to Set Up Amazon EKS Cluster Using Terraf
     export AWS_SECRET_ACCESS_KEY=<SECRET_KEY>
     export AWS_REGION=<REGION>  
 
-    export AWS_ACCESS_KEY_ID=AKIA5NG2LB4XKQSVMFMH
-    export AWS_SECRET_ACCESS_KEY=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
-    export AWS_REGION=us-west-2
+
 ```
 
